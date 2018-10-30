@@ -1,0 +1,3 @@
+# Secondo documento
+
+Content of the second file.

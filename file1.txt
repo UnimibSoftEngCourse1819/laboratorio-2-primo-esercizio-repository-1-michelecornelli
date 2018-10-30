@@ -2,3 +2,7 @@
 
 First content of the file.
 Additional content of the first document.
+
+#Secondo documento
+
+Please see file2.txt to see the second document.
