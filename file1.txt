@@ -6,3 +6,7 @@ Additional content of the first document.
 #Secondo documento
 
 Please see file2.txt to see the second document.
+
+# Terzo documento
+
+Please see file3.txt to see the third document.
